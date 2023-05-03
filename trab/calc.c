@@ -1,4 +1,5 @@
 /******************************************************************************
+ * nome do Aluno:Matheus Geraldo da Silva Campos
  * Fazer uma função para imprimir as operações como um "MENU"
  * fazer uma função para cada operação mmatemática
  * problemas: comparação de vetor, perda de precisão com a coversão para double
